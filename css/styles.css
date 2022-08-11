@@ -1,0 +1,67 @@
+
+body{
+    margin-left: 15px;
+    margin-top: 0;
+}
+
+.block-1 h1{
+display: inline-block;
+position: relative;
+}
+
+#mail{
+    display: inline-block;
+    float: right;
+    text-decoration: none;
+    color: black;
+    margin-top: 1.5%;
+}
+
+.sub-block-1{
+  position: absolute;
+  top: 60.5%;
+  
+}
+.sub-block-1 p{
+    padding-top: 0;
+}
+.sub-block-1 h3{
+    display: inline-block;
+    
+}
+.sub-block-1 h3 a {
+    color: black;
+}
+
+.content{
+    margin-right: 83.1%;
+    margin-bottom: 0;
+}
+
+.copyright{
+    margin-top: 0;
+    color: grey;
+}
+.copyright a{
+    color: gray;
+}
+
+.mobile-area{
+    position: absolute;
+    left: 22.8%;
+    top: 6%;
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.mobile-area h4{
+    margin-top: 0;
+}
+.mobile-area a{
+    text-decoration: none;
+    color: #f908d1;
+}
+.mobile-area img{
+    width: 50%;
+}
