@@ -201,13 +201,14 @@ html {
    .block h1{
     position: absolute;
     font-size: 17px;
-    padding-top: 10px;
+    
     
    }
 
    .mobile-area {
     font-size: 20px;
     margin-top: 40px;
+    padding-bottom: 0;
 }
 
 
@@ -243,6 +244,11 @@ html {
 
     
 }
+
+.mobile-area p a{
+    font-size: 15px;
+}
+
 .content{
     
     margin: 0;
