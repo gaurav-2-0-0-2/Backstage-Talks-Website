@@ -19,20 +19,20 @@ function changeBg(){
     }
 
 
-    if (scrollValue < 1601) {
+    if (scrollValue < 1890) {
         body.classList.remove('bgColor-3')
     }else{
         body.classList.add('bgColor-3')
     }
 
-    if (scrollValue < 2301) {
+    if (scrollValue < 2640) {
         body.classList.remove('bgColor-4')
     }else{
         body.classList.add('bgColor-4')
     }
 
 
-    if (scrollValue < 2901) {
+    if (scrollValue < 3401) {
         body.classList.remove('bgColor-5')
     }else{
         body.classList.add('bgColor-5')
