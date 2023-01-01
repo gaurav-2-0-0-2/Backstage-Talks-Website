@@ -44,7 +44,7 @@ html {
 .sub-block-1 {
     position: fixed;
     font-family: 'Roboto', sans-serif;
-    top: 445px;
+    top: 350px;
 
 }
 
@@ -85,22 +85,25 @@ html {
 .mobile-area {
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
-    margin-top: 40px;
+    margin-top: 35px;
     display: inline-block;
 
-    padding-bottom: 30px;
+    padding-bottom: 15px;
 }
 
 .mobile-area h4 {
     margin-top: 0;
+    margin-bottom: 5px;
 }
 
 .mobile-area a {
+    
     text-decoration: none;
     color: #f908d1;
 }
 
 .mobile-area p {
+    margin-top: 0px;
     font-size: 15px;
 }
 
@@ -224,7 +227,7 @@ html {
         display: inline-block;
         font-size: 15px;
         text-align: center;
-        top: 100%;
+        top: 70%;
         padding-bottom: 60px;
 
 
