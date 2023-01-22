@@ -1,0 +1,30 @@
+
+button{
+    background-color: transparent;
+    border: none;
+    margin-top: 1.5%;
+    margin-left:1% ;
+}
+
+.nav{
+    background-color: gray;
+    position: fixed;
+    right: 93%;
+    top: 0;
+    bottom: 0;
+    width: 7%;
+    z-index: -1;
+}
+
+.toggle-nav{
+    background-color: red;
+    position: fixed;
+    right: 70%;
+    top: 0;
+    bottom: 0;
+    width: 30%;
+    z-index: -10;
+    transform: translateX(50%);
+}
+
+
