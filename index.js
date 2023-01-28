@@ -27,7 +27,9 @@ function changeBg() {
     } else {
         body.classList.add('bgColor-5')
     }
-window.addEventListener('scroll', changeBg);
+}
 
+
+window.addEventListener('scroll', changeBg);
 
 
